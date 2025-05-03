@@ -6,5 +6,4 @@
 ## Day 02
 - Learned about variables and data types.
 
-# java-learning
-my github repo
+
